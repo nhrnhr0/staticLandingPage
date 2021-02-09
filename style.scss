@@ -160,26 +160,28 @@ form {
     .row {
         margin: 0;
     }
-    .form-fotter  {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        .form-fotter-content {
-            margin-right: 50px;
-            padding-right: 30px;
-            margin-left: 50px;
-            padding-left: 30px;
-            background: #999999;
-            color: #FFD966;
-            padding: 5;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 1.3rem;
-            span {
-                text-decoration: underline;
-                //color:black;
-                font-weight: bolder;
-            }
+    
+}
+
+.form-fotter  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .form-fotter-content {
+        margin-right: 50px;
+        padding-right: 30px;
+        margin-left: 50px;
+        padding-left: 30px;
+        background: #999999;
+        color: #FFD966;
+        padding: 5;
+        border-radius: 30px;
+        text-align: center;
+        font-size: 1.3rem;
+        span {
+            text-decoration: underline;
+            //color:black;
+            font-weight: bolder;
         }
     }
 }

@@ -195,7 +195,7 @@ form .row {
   margin: 0;
 }
 
-form .form-fotter {
+.form-fotter {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -207,7 +207,7 @@ form .form-fotter {
           align-items: center;
 }
 
-form .form-fotter .form-fotter-content {
+.form-fotter .form-fotter-content {
   margin-right: 50px;
   padding-right: 30px;
   margin-left: 50px;
@@ -220,7 +220,7 @@ form .form-fotter .form-fotter-content {
   font-size: 1.3rem;
 }
 
-form .form-fotter .form-fotter-content span {
+.form-fotter .form-fotter-content span {
   text-decoration: underline;
   font-weight: bolder;
 }
