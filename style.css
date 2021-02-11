@@ -260,4 +260,9 @@ form .row {
   text-align: center;
   background-color: white;
 }
+
+.stats-2 .second {
+  padding: 0px !important;
+  border-radius: 0px !important;
+}
 /*# sourceMappingURL=style.css.map */
