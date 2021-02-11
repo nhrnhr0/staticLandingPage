@@ -244,6 +244,8 @@ form .row {
   font-weight: 100;
   color: black;
   text-align: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .seccound-part .image {
